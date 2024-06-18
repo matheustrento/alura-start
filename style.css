@@ -91,10 +91,10 @@
 
     .secundario-imagem{
 
-        width: 60%;
+        width: 80%;
     }
 
-    .descrisao-titulo{
+    .descriçao-titulo{
 
         font-weight: 700;
         font-size: 48px;
@@ -102,7 +102,7 @@
         margin-bottom: 0.1em;
     }
 
-    .descrisao-texto{
+    .descriçao-texto{
 
         color: var(--cinza-secundrio);
     }
@@ -111,5 +111,15 @@
 
         align-items: center;
         margin: 0 10em;
+    }
+
+    .secundario-botao{
+
+        display:inline-block;
+        margin-top: 1em;
+    }
+
+    .container-decriçao{
+        padding: 2em;
     }
     
